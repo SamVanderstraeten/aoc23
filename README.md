@@ -2,7 +2,7 @@
 
 # I don't have time for this
 
-## Challanges
+## Challenges
 
 * Day I - NUMBERS
 * DAY II - GAMETIME
