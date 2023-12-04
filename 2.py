@@ -28,7 +28,6 @@ class Game:
         for g in self.all_grabs:
             if not self.valid_grab(g):
                 return False 
-
         return True   
             
     def valid_grab(self, g):
